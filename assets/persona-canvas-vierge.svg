@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+<title>Canvas persona : modèle vierge</title>
+<rect width="1600" height="1000" fill="#ffffff"/>
+<text x="32" y="52" font-size="30" font-weight="800" fill="#1f2333">Canvas persona</text>
+<text x="290" y="52" font-size="20" fill="#6b7080">Projet : ______________________</text>
+<text x="1568" y="40" font-size="14" fill="#6b7080" text-anchor="end">Version : ______   Date : ____________</text>
+<text x="1568" y="62" font-size="14" fill="#6b7080" text-anchor="end">Sources : ______ entretiens, ______ réponses, autres : ____________</text>
+<line x1="32" y1="80" x2="1568" y2="80" stroke="#d5d8e3" stroke-width="2"/>
+<rect x="32" y="100" width="400" height="300" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="32" y="100" width="6" height="300" rx="3" fill="#3b4cca"/><text x="56" y="134" font-size="15" font-weight="700" fill="#3b4cca" letter-spacing="1.5">IDENTITÉ</text>
+<circle cx="124" cy="230" r="62" fill="#ffffff" stroke="#d5d8e3" stroke-width="2" stroke-dasharray="6 5"/><text x="124" y="236" font-size="14" fill="#6b7080" text-anchor="middle" font-style="italic">illustration</text>
+<text x="204" y="196" font-size="20" fill="#6b7080" font-style="italic">Prénom Nom</text>
+<text x="204" y="226" font-size="15" fill="#6b7080" font-style="italic">Primaire / secondaire ?</text>
+<text x="204" y="256" font-size="15" fill="#6b7080" font-style="italic">Âge</text>
+<text x="56" y="326" font-size="15" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="56" dy="0.0">Métier, lieu de vie, foyer : seulement ce qui</tspan>
+<tspan x="56" dy="20.2">éclaire ses besoins.</tspan>
+</text>
+<rect x="32" y="416" width="400" height="150" rx="14" fill="#3b4cca"/>
+<text x="52" y="474" font-size="54" font-weight="800" fill="#ffffff" opacity="0.35">"</text>
+<text x="104" y="464" font-size="17" fill="#ffffff" font-weight="normal" font-style="italic">
+<tspan x="104" dy="0.0">Une phrase réellement entendue en</tspan>
+<tspan x="104" dy="23.0">entretien, qui résume son rapport au</tspan>
+<tspan x="104" dy="23.0">problème.</tspan>
+</text>
+<rect x="32" y="582" width="400" height="228" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="32" y="582" width="6" height="228" rx="3" fill="#5c6378"/><text x="56" y="616" font-size="15" font-weight="700" fill="#5c6378" letter-spacing="1.5">CONTEXTE</text>
+<text x="56" y="648" font-size="15" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="56" dy="0.0">Sa journée type, sa situation face au problème,</tspan>
+<tspan x="56" dy="20.2">ce qu'elle a déjà essayé et pourquoi elle y a</tspan>
+<tspan x="56" dy="20.2">renoncé.</tspan>
+</text>
+<rect x="452" y="100" width="540" height="222" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="452" y="100" width="6" height="222" rx="3" fill="#1f8a5b"/><text x="476" y="134" font-size="15" font-weight="700" fill="#1f8a5b" letter-spacing="1.5">OBJECTIFS</text>
+<circle cx="481" cy="164.6" r="4" fill="#1f8a5b"/>
+<text x="494" y="170" font-size="15.5" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="494" dy="0.0">Ce qu'elle cherche à accomplir (pas des fonctionnalités)</tspan>
+</text>
+<circle cx="481" cy="193.5" r="4" fill="#1f8a5b"/>
+<text x="494" y="198.925" font-size="15.5" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="494" dy="0.0">Objectifs pratiques, mais aussi ce qu'elle veut ressentir</tspan>
+</text>
+<rect x="452" y="338" width="540" height="222" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="452" y="338" width="6" height="222" rx="3" fill="#c2410c"/><text x="476" y="372" font-size="15" font-weight="700" fill="#c2410c" letter-spacing="1.5">FRUSTRATIONS / FREINS</text>
+<circle cx="481" cy="402.6" r="4" fill="#c2410c"/>
+<text x="494" y="408" font-size="15.5" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="494" dy="0.0">Ce qui l'empêche d'atteindre ses objectifs aujourd'hui</tspan>
+</text>
+<circle cx="481" cy="431.5" r="4" fill="#c2410c"/>
+<text x="494" y="436.925" font-size="15.5" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="494" dy="0.0">Irritants observés, contournements bricolés</tspan>
+</text>
+<rect x="452" y="576" width="540" height="222" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="452" y="576" width="6" height="222" rx="3" fill="#7c3aed"/><text x="476" y="610" font-size="15" font-weight="700" fill="#7c3aed" letter-spacing="1.5">COMPORTEMENTS &amp; HABITUDES</text>
+<circle cx="481" cy="640.6" r="4" fill="#7c3aed"/>
+<text x="494" y="646" font-size="15.5" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="494" dy="0.0">Ce qu'elle fait réellement : fréquence, moments, lieux</tspan>
+</text>
+<circle cx="481" cy="669.5" r="4" fill="#7c3aed"/>
+<text x="494" y="674.925" font-size="15.5" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="494" dy="0.0">Les habitudes que le produit doit épouser</tspan>
+</text>
+<rect x="1012" y="100" width="556" height="374" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="1012" y="100" width="6" height="374" rx="3" fill="#0e7490"/><text x="1036" y="134" font-size="15" font-weight="700" fill="#0e7490" letter-spacing="1.5">VARIABLES COMPORTEMENTALES</text>
+<text x="1040" y="166" font-size="15" font-weight="600" fill="#1f2333">Variable 1 : ______________________</text>
+<line x1="1040" y1="186" x2="1540" y2="186" stroke="#d5d8e3" stroke-width="6" stroke-linecap="round"/>
+<text x="1040" y="207" font-size="13" fill="#6b7080">pôle gauche</text>
+<text x="1540" y="207" font-size="13" fill="#6b7080" text-anchor="end">pôle droit</text>
+<circle cx="1040.0" cy="186" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1165.0" cy="186" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1290.0" cy="186" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1415.0" cy="186" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1540.0" cy="186" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<text x="1040" y="228" font-size="15" font-weight="600" fill="#1f2333">Variable 2 : ______________________</text>
+<line x1="1040" y1="248" x2="1540" y2="248" stroke="#d5d8e3" stroke-width="6" stroke-linecap="round"/>
+<text x="1040" y="269" font-size="13" fill="#6b7080">pôle gauche</text>
+<text x="1540" y="269" font-size="13" fill="#6b7080" text-anchor="end">pôle droit</text>
+<circle cx="1040.0" cy="248" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1165.0" cy="248" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1290.0" cy="248" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1415.0" cy="248" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1540.0" cy="248" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<text x="1040" y="290" font-size="15" font-weight="600" fill="#1f2333">Variable 3 : ______________________</text>
+<line x1="1040" y1="310" x2="1540" y2="310" stroke="#d5d8e3" stroke-width="6" stroke-linecap="round"/>
+<text x="1040" y="331" font-size="13" fill="#6b7080">pôle gauche</text>
+<text x="1540" y="331" font-size="13" fill="#6b7080" text-anchor="end">pôle droit</text>
+<circle cx="1040.0" cy="310" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1165.0" cy="310" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1290.0" cy="310" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1415.0" cy="310" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1540.0" cy="310" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<text x="1040" y="352" font-size="15" font-weight="600" fill="#1f2333">Variable 4 : ______________________</text>
+<line x1="1040" y1="372" x2="1540" y2="372" stroke="#d5d8e3" stroke-width="6" stroke-linecap="round"/>
+<text x="1040" y="393" font-size="13" fill="#6b7080">pôle gauche</text>
+<text x="1540" y="393" font-size="13" fill="#6b7080" text-anchor="end">pôle droit</text>
+<circle cx="1040.0" cy="372" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1165.0" cy="372" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1290.0" cy="372" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1415.0" cy="372" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1540.0" cy="372" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<text x="1040" y="414" font-size="15" font-weight="600" fill="#1f2333">Variable 5 : ______________________</text>
+<line x1="1040" y1="434" x2="1540" y2="434" stroke="#d5d8e3" stroke-width="6" stroke-linecap="round"/>
+<text x="1040" y="455" font-size="13" fill="#6b7080">pôle gauche</text>
+<text x="1540" y="455" font-size="13" fill="#6b7080" text-anchor="end">pôle droit</text>
+<circle cx="1040.0" cy="434" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1165.0" cy="434" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1290.0" cy="434" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1415.0" cy="434" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1540.0" cy="434" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<rect x="1012" y="490" width="556" height="142" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="1012" y="490" width="6" height="142" rx="3" fill="#a16207"/><text x="1036" y="524" font-size="15" font-weight="700" fill="#a16207" letter-spacing="1.5">CANAUX &amp; OUTILS</text>
+<circle cx="1041" cy="546.6" r="4" fill="#a16207"/>
+<text x="1054" y="552" font-size="15.5" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="1054" dy="0.0">Équipements, applications, réseaux qu'elle utilise déjà</tspan>
+</text>
+<circle cx="1041" cy="573.5" r="4" fill="#a16207"/>
+<text x="1054" y="578.925" font-size="15.5" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="1054" dy="0.0">Où et comment la toucher</tspan>
+</text>
+<rect x="1012" y="648" width="556" height="166" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="1012" y="648" width="6" height="166" rx="3" fill="#be185d"/><text x="1036" y="682" font-size="15" font-weight="700" fill="#be185d" letter-spacing="1.5">SCÉNARIO CLÉ</text>
+<text x="1036" y="712" font-size="15" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="1036" dy="0.0">Un moment concret où elle utiliserait le produit : quand, où, avec</tspan>
+<tspan x="1036" dy="20.2">quoi, pour quel résultat.</tspan>
+</text>
+<rect x="32" y="830" width="1536" height="140" rx="14" fill="#eef0ff" stroke="#d5d8e3"/>
+<text x="56" y="864" font-size="15" font-weight="700" fill="#3b4cca" letter-spacing="1.5">CE QUE CELA IMPLIQUE POUR LE PRODUIT</text>
+<circle cx="61" cy="892.6" r="4" fill="#3b4cca"/>
+<text x="74" y="898" font-size="15.5" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="74" dy="0.0">Les décisions de conception que cette persona justifie : ce qu'il faut faire, et ce qu'il ne faut pas faire.</tspan>
+</text>
+<circle cx="61" cy="917.5" r="4" fill="#3b4cca"/>
+<text x="74" y="922.925" font-size="15.5" fill="#6b7080" font-weight="normal" font-style="italic">
+<tspan x="74" dy="0.0">Chaque ligne doit pouvoir se relier à un objectif ou à une frustration ci-dessus.</tspan>
+</text>
+</svg>

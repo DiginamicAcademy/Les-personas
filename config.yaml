@@ -1,0 +1,28 @@
+# Déclaration du cours, en deux sections. Vérifiée à chaque push qui la modifie
+# (workflow "Vérifier").
+#
+# - course : ce que vise le cours. Recopiée à chaque version dans sa partie
+#   pédagogique, le dépôt privé <ce-dépôt>-Peda, où elle sert à produire
+#   RNCP.yaml et le syllabus.
+# - credits : qui signe le cours, et avec quels comptes GitHub.
+course:
+  name: "La persona dans tous ses états"
+  RNCP:     ## titres visés (chapitre 08 du cours)
+    - RNCP37873  ## CDA : Concepteur développeur d'applications
+    - RNCP37674  ## DWWM : Développeur web et web mobile
+    - RNCP40573  ## EISI : Expert en informatique et systèmes d'information
+    - RNCP41879  ## AMOA : Consultant en assistance à maîtrise d'ouvrage informatique
+  RNCPBloc: ## blocs où la persona intervient directement
+    - RNCP37873BC02  ## CDA : Concevoir et développer une application sécurisée organisée en couches (analyse des besoins, maquettage)
+    - RNCP37674BC01  ## DWWM : Développer la partie front-end d'une application web ou web mobile sécurisée (maquettage des interfaces)
+    - RNCP40573BC02  ## EISI : Piloter des projets informatiques (cadrage, arbitrage)
+    - RNCP41879BC01  ## AMOA : Étude des besoins métier et études fonctionnelles
+    - RNCP41879BC04  ## AMOA : Travail en contexte Agile (récits utilisateur, priorisation)
+  timing: 1 ## durée en jours : le cours n'en fixe pas, mais le vérificateur exige un nombre positif
+
+credits:
+  authors: ## signataires du cours, dans l'ordre où ils doivent apparaître
+    - name: Jean-François Vial
+      github: ## comptes GitHub avec lesquels il commite, pour reconnaître ses commits
+        - JeffDiginamic
+        - j33f

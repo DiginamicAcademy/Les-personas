@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+<title>Canvas persona : exemple : Nadia Benali</title>
+<rect width="1600" height="1000" fill="#ffffff"/>
+<text x="32" y="52" font-size="30" font-weight="800" fill="#1f2333">Canvas persona</text>
+<text x="290" y="52" font-size="20" fill="#6b7080">Projet : <tspan fill="#1f2333" font-weight="600">Panier Local</tspan></text>
+<text x="1568" y="40" font-size="14" fill="#6b7080" text-anchor="end">v1, novembre 2026</text>
+<text x="1568" y="62" font-size="14" fill="#6b7080" text-anchor="end">Fondée sur 8 entretiens et 212 réponses au questionnaire (octobre 2026)</text>
+<line x1="32" y1="80" x2="1568" y2="80" stroke="#d5d8e3" stroke-width="2"/>
+<rect x="32" y="100" width="400" height="300" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="32" y="100" width="6" height="300" rx="3" fill="#3b4cca"/><text x="56" y="134" font-size="15" font-weight="700" fill="#3b4cca" letter-spacing="1.5">IDENTITÉ</text>
+
+<clipPath id="av"><circle cx="124" cy="230" r="62"/></clipPath>
+<circle cx="124" cy="230" r="62" fill="#dfe4ff"/>
+<g clip-path="url(#av)">
+  <path d="M78,224 q46,-62 92,0 v52 h-92 z" fill="#2b2233"/>
+  <ellipse cx="124" cy="288.9" rx="50.839999999999996" ry="34.1" fill="#3b4cca"/>
+  <path d="M108,260 h32 v22 a16,10 0 0 1 -32,0 z" fill="#b9785a"/>
+  <ellipse cx="124" cy="230" rx="31" ry="37" fill="#c98b6b"/>
+  <path d="M91,226 q2,-42 33,-42 q31,0 33,42 q-14,-24 -33,-26 q-19,2 -33,26 z" fill="#2b2233"/>
+  <circle cx="113" cy="232" r="3" fill="#2b2233"/>
+  <circle cx="135" cy="232" r="3" fill="#2b2233"/>
+  <path d="M115,248 q9,7 18,0" stroke="#7a3e2c" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</g>
+<text x="204" y="196" font-size="24" font-weight="800" fill="#1f2333">Nadia Benali</text>
+<rect x="204" y="208" width="150" height="26" rx="13" fill="#3b4cca"/>
+<text x="279" y="226" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Persona primaire</text>
+<text x="204" y="262" font-size="16" fill="#1f2333">41 ans</text>
+<text x="56" y="326" font-size="16" fill="#1f2333">Infirmière de nuit au CHU</text>
+<text x="56" y="352" font-size="16" fill="#1f2333">Villeurbanne (69)</text>
+<text x="56" y="378" font-size="16" fill="#1f2333">En couple, 2 enfants (9 et 13 ans)</text>
+<rect x="32" y="416" width="400" height="150" rx="14" fill="#3b4cca"/>
+<text x="52" y="474" font-size="54" font-weight="800" fill="#ffffff" opacity="0.35">"</text>
+<text x="104" y="464" font-size="20" fill="#ffffff" font-weight="600" font-style="italic">
+<tspan x="104" dy="0.0">Je veux bien manger local, mais</tspan>
+<tspan x="104" dy="27.0">le marché ferme quand je me</tspan>
+<tspan x="104" dy="27.0">réveille.</tspan>
+</text>
+<rect x="32" y="582" width="400" height="228" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="32" y="582" width="6" height="228" rx="3" fill="#5c6378"/><text x="56" y="616" font-size="15" font-weight="700" fill="#5c6378" letter-spacing="1.5">CONTEXTE</text>
+<text x="56" y="648" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="56" dy="0.0">Travaille trois nuits par semaine et dort le</tspan>
+<tspan x="56" dy="20.9">matin. Fait ses courses en grande surface en</tspan>
+<tspan x="56" dy="20.9">sortant du travail, à 7 h, par défaut plutôt</tspan>
+<tspan x="56" dy="20.9">que par choix. Sensibilisée au circuit court</tspan>
+<tspan x="56" dy="20.9">par un projet d'école de ses enfants, elle a</tspan>
+<tspan x="56" dy="20.9">testé un panier AMAP puis abandonné : retrait</tspan>
+<tspan x="56" dy="20.9">le mardi à 18 h, impossible pour elle.</tspan>
+</text>
+<rect x="452" y="100" width="540" height="222" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="452" y="100" width="6" height="222" rx="3" fill="#1f8a5b"/><text x="476" y="134" font-size="15" font-weight="700" fill="#1f8a5b" letter-spacing="1.5">OBJECTIFS</text>
+<circle cx="481" cy="164.6" r="4" fill="#1f8a5b"/>
+<text x="494" y="170" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Nourrir sa famille avec des produits frais et de saison</tspan>
+</text>
+<circle cx="481" cy="193.5" r="4" fill="#1f8a5b"/>
+<text x="494" y="198.925" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Faire ses courses en moins de 15 minutes, à l'heure qui lui</tspan>
+<tspan x="494" dy="20.9">convient</tspan>
+</text>
+<circle cx="481" cy="243.4" r="4" fill="#1f8a5b"/>
+<text x="494" y="248.77500000000003" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Savoir ce qu'elle paie, et à qui</tspan>
+</text>
+<circle cx="481" cy="272.3" r="4" fill="#1f8a5b"/>
+<text x="494" y="277.70000000000005" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Ne rien jeter : commander les bonnes quantités</tspan>
+</text>
+<rect x="452" y="338" width="540" height="222" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="452" y="338" width="6" height="222" rx="3" fill="#c2410c"/><text x="476" y="372" font-size="15" font-weight="700" fill="#c2410c" letter-spacing="1.5">FRUSTRATIONS / FREINS</text>
+<circle cx="481" cy="402.6" r="4" fill="#c2410c"/>
+<text x="494" y="408" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Créneaux de retrait incompatibles avec ses horaires</tspan>
+</text>
+<circle cx="481" cy="431.5" r="4" fill="#c2410c"/>
+<text x="494" y="436.925" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Engagements longs (abonnement trimestriel de l'AMAP)</tspan>
+</text>
+<circle cx="481" cy="460.4" r="4" fill="#c2410c"/>
+<text x="494" y="465.85" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Découvrir au retrait qu'un produit manque</tspan>
+</text>
+<circle cx="481" cy="489.4" r="4" fill="#c2410c"/>
+<text x="494" y="494.77500000000003" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Un compte différent sur le site de chaque producteur</tspan>
+</text>
+<rect x="452" y="576" width="540" height="222" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="452" y="576" width="6" height="222" rx="3" fill="#7c3aed"/><text x="476" y="610" font-size="15" font-weight="700" fill="#7c3aed" letter-spacing="1.5">COMPORTEMENTS &amp; HABITUDES</text>
+<circle cx="481" cy="640.6" r="4" fill="#7c3aed"/>
+<text x="494" y="646" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Planifie les repas de la semaine le dimanche soir</tspan>
+</text>
+<circle cx="481" cy="669.5" r="4" fill="#7c3aed"/>
+<text x="494" y="674.925" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Commande sur son téléphone pendant sa pause de 3 h du matin</tspan>
+</text>
+<circle cx="481" cy="698.4" r="4" fill="#7c3aed"/>
+<text x="494" y="703.8499999999999" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Compare peu les prix, mais surveille le total du panier</tspan>
+</text>
+<circle cx="481" cy="727.3" r="4" fill="#7c3aed"/>
+<text x="494" y="732.7749999999999" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="494" dy="0.0">Recommande volontiers à ses collègues quand elle est</tspan>
+<tspan x="494" dy="20.9">satisfaite</tspan>
+</text>
+<rect x="1012" y="100" width="556" height="374" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="1012" y="100" width="6" height="374" rx="3" fill="#0e7490"/><text x="1036" y="134" font-size="15" font-weight="700" fill="#0e7490" letter-spacing="1.5">VARIABLES COMPORTEMENTALES</text>
+<text x="1040" y="166" font-size="15" font-weight="600" fill="#1f2333">Contrainte horaire</text>
+<line x1="1040" y1="186" x2="1540" y2="186" stroke="#d5d8e3" stroke-width="6" stroke-linecap="round"/>
+<text x="1040" y="207" font-size="13" fill="#6b7080">Horaires libres</text>
+<text x="1540" y="207" font-size="13" fill="#6b7080" text-anchor="end">Très contraints</text>
+<circle cx="1040.0" cy="186" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1165.0" cy="186" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1290.0" cy="186" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1415.0" cy="186" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1540.0" cy="186" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<line x1="1040" y1="186" x2="1500.0" y2="186" stroke="#0e7490" stroke-width="6" stroke-linecap="round" opacity="0.35"/>
+<circle cx="1500.0" cy="186" r="10" fill="#0e7490" stroke="#ffffff" stroke-width="3"/>
+<text x="1040" y="228" font-size="15" font-weight="600" fill="#1f2333">Motivation "local"</text>
+<line x1="1040" y1="248" x2="1540" y2="248" stroke="#d5d8e3" stroke-width="6" stroke-linecap="round"/>
+<text x="1040" y="269" font-size="13" fill="#6b7080">Indifférente</text>
+<text x="1540" y="269" font-size="13" fill="#6b7080" text-anchor="end">Militante</text>
+<circle cx="1040.0" cy="248" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1165.0" cy="248" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1290.0" cy="248" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1415.0" cy="248" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1540.0" cy="248" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<line x1="1040" y1="248" x2="1330.0" y2="248" stroke="#0e7490" stroke-width="6" stroke-linecap="round" opacity="0.35"/>
+<circle cx="1330.0" cy="248" r="10" fill="#0e7490" stroke="#ffffff" stroke-width="3"/>
+<text x="1040" y="290" font-size="15" font-weight="600" fill="#1f2333">Sensibilité au prix</text>
+<line x1="1040" y1="310" x2="1540" y2="310" stroke="#d5d8e3" stroke-width="6" stroke-linecap="round"/>
+<text x="1040" y="331" font-size="13" fill="#6b7080">Faible</text>
+<text x="1540" y="331" font-size="13" fill="#6b7080" text-anchor="end">Forte</text>
+<circle cx="1040.0" cy="310" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1165.0" cy="310" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1290.0" cy="310" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1415.0" cy="310" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1540.0" cy="310" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<line x1="1040" y1="310" x2="1290.0" y2="310" stroke="#0e7490" stroke-width="6" stroke-linecap="round" opacity="0.35"/>
+<circle cx="1290.0" cy="310" r="10" fill="#0e7490" stroke="#ffffff" stroke-width="3"/>
+<text x="1040" y="352" font-size="15" font-weight="600" fill="#1f2333">Planification</text>
+<line x1="1040" y1="372" x2="1540" y2="372" stroke="#d5d8e3" stroke-width="6" stroke-linecap="round"/>
+<text x="1040" y="393" font-size="13" fill="#6b7080">Au jour le jour</text>
+<text x="1540" y="393" font-size="13" fill="#6b7080" text-anchor="end">À la semaine</text>
+<circle cx="1040.0" cy="372" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1165.0" cy="372" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1290.0" cy="372" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1415.0" cy="372" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1540.0" cy="372" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<line x1="1040" y1="372" x2="1415.0" y2="372" stroke="#0e7490" stroke-width="6" stroke-linecap="round" opacity="0.35"/>
+<circle cx="1415.0" cy="372" r="10" fill="#0e7490" stroke="#ffffff" stroke-width="3"/>
+<text x="1040" y="414" font-size="15" font-weight="600" fill="#1f2333">Aisance numérique</text>
+<line x1="1040" y1="434" x2="1540" y2="434" stroke="#d5d8e3" stroke-width="6" stroke-linecap="round"/>
+<text x="1040" y="455" font-size="13" fill="#6b7080">Débutante</text>
+<text x="1540" y="455" font-size="13" fill="#6b7080" text-anchor="end">Experte</text>
+<circle cx="1040.0" cy="434" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1165.0" cy="434" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1290.0" cy="434" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1415.0" cy="434" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<circle cx="1540.0" cy="434" r="3" fill="#ffffff" stroke="#d5d8e3"/>
+<line x1="1040" y1="434" x2="1375.0" y2="434" stroke="#0e7490" stroke-width="6" stroke-linecap="round" opacity="0.35"/>
+<circle cx="1375.0" cy="434" r="10" fill="#0e7490" stroke="#ffffff" stroke-width="3"/>
+<rect x="1012" y="490" width="556" height="142" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="1012" y="490" width="6" height="142" rx="3" fill="#a16207"/><text x="1036" y="524" font-size="15" font-weight="700" fill="#a16207" letter-spacing="1.5">CANAUX &amp; OUTILS</text>
+<circle cx="1041" cy="546.6" r="4" fill="#a16207"/>
+<text x="1054" y="552" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="1054" dy="0.0">Smartphone Android, usage quasi exclusif</tspan>
+</text>
+<circle cx="1041" cy="573.5" r="4" fill="#a16207"/>
+<text x="1054" y="578.925" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="1054" dy="0.0">WhatsApp (groupe famille), appli bancaire, Doctolib</tspan>
+</text>
+<circle cx="1041" cy="600.4" r="4" fill="#a16207"/>
+<text x="1054" y="605.8499999999999" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="1054" dy="0.0">Pas d'ordinateur personnel au quotidien</tspan>
+</text>
+<rect x="1012" y="648" width="556" height="166" rx="14" fill="#f6f7fb" stroke="#d5d8e3"/><rect x="1012" y="648" width="6" height="166" rx="3" fill="#be185d"/><text x="1036" y="682" font-size="15" font-weight="700" fill="#be185d" letter-spacing="1.5">SCÉNARIO CLÉ</text>
+<text x="1036" y="712" font-size="15" fill="#1f2333" font-weight="normal">
+<tspan x="1036" dy="0.0">Mercredi, 3 h du matin, pause au poste de soins. Nadia ouvre Panier</tspan>
+<tspan x="1036" dy="20.2">Local, reprend la commande de la semaine dernière, retire les</tspan>
+<tspan x="1036" dy="20.2">courgettes (plus de saison) et ajoute des œufs. Elle choisit le</tspan>
+<tspan x="1036" dy="20.2">retrait au casier de la gare Part-Dieu jeudi à 7 h 30, sur son trajet</tspan>
+<tspan x="1036" dy="20.2">de retour. Deux minutes, paiement compris.</tspan>
+</text>
+<rect x="32" y="830" width="1536" height="140" rx="14" fill="#eef0ff" stroke="#d5d8e3"/>
+<text x="56" y="864" font-size="15" font-weight="700" fill="#3b4cca" letter-spacing="1.5">CE QUE CELA IMPLIQUE POUR LE PRODUIT</text>
+<circle cx="61" cy="892.6" r="4" fill="#3b4cca"/>
+<text x="74" y="898" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="74" dy="0.0">Retrait en casier accessible 24 h/24, créneaux élargis</tspan>
+</text>
+<circle cx="61" cy="917.5" r="4" fill="#3b4cca"/>
+<text x="74" y="922.925" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="74" dy="0.0">"Recommander ma dernière commande" en un geste</tspan>
+</text>
+<circle cx="61" cy="942.4" r="4" fill="#3b4cca"/>
+<text x="74" y="947.8499999999999" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="74" dy="0.0">Disponibilité garantie dès la validation de la commande</tspan>
+</text>
+<circle cx="821" cy="892.6" r="4" fill="#3b4cca"/>
+<text x="834" y="898" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="834" dy="0.0">Un seul compte pour tous les producteurs</tspan>
+</text>
+<circle cx="821" cy="917.5" r="4" fill="#3b4cca"/>
+<text x="834" y="922.925" font-size="15.5" fill="#1f2333" font-weight="normal">
+<tspan x="834" dy="0.0">Mobile d'abord : utilisable d'une main, en faible luminosité</tspan>
+</text>
+</svg>
