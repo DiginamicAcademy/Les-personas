@@ -57,6 +57,34 @@ réunion, décorée d'une photo de banque d'images, affichée au mur… et oubli
 Ce cours insiste sur les deux conditions qui en font un véritable outil de
 travail : **elle repose sur des données**, et **elle sert à décider**.
 
+## 🤝 Pourquoi prendre en compte les profils commerciaux ?
+
+Les équipes commerciales et marketing ont leur propre variante de la persona :
+la **persona commerciale**, qui décrit qui achète et pourquoi. Les équipes de
+conception travaillent avec la **persona d'usage**, qui décrit qui utilise et
+comment. Les deux parlent souvent des mêmes personnes, mais sans toujours se
+comprendre.
+
+En parler dans ce cours sert trois objectifs :
+
+- **Dialoguer dans les deux sens.** Connaître la persona commerciale permet de
+  comprendre les métiers commerciaux et d'échanger avec eux ; à l'inverse,
+  une persona d'usage bien présentée leur donne accès à ce que vivent
+  réellement les utilisateurs.
+- **Créer une synergie.** Les commerciaux apportent ce qu'ils savent des
+  déclencheurs, des freins et des critères d'achat ; les équipes de
+  conception apportent les objectifs, les frustrations et les comportements
+  d'usage. Chacun enrichit la persona de l'autre.
+- **Ne faire le travail qu'une seule fois.** Entretiens, questionnaires,
+  données clients : les matières premières existent souvent déjà d'un côté ou
+  de l'autre. Les réemployer évite de refaire une étude, et tenir une seule
+  persona avec deux vues (usage et commerciale) évite deux fiches qui se
+  contredisent.
+
+Le [chapitre 09](09-Persona-d-usage-et-persona-commerciale.md) montre comment
+passer d'une variante à l'autre, dans les deux sens, et dans quelles limites,
+notamment celles du RGPD.
+
 ## Le parcours
 
 Chaque étape est un fichier. On les suit **dans l'ordre** : chacune s'appuie
